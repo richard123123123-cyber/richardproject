@@ -1,0 +1,15 @@
+Class 1:
+- Set up the environment to do website development
+- Using a Mac as the operating system
+- Installed Homebrew for package management
+- Install Git via Homebrew
+- Git is used for version control
+- Install VSCode as the Integrated Development Environment (IDE) - this is where you code
+- Introduced very basic terminal commands
+- `ls`
+- `cd`
+- `mkdir`, `mv`, `rmdir`
+- Introduced the basic structure of HTML, and how to use HTML tags
+
+
+Class 2 (July 15th):
