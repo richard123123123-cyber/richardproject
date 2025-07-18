@@ -1,4 +1,4 @@
-Class 1:
+Class 1 (July 4th):
 - Set up the environment to do website development
 - Using a Mac as the operating system
 - Installed Homebrew for package management
@@ -13,3 +13,18 @@ Class 1:
 
 
 Class 2 (July 15th):
+- Basic git commands and what GIT actually is
+- When you are collaborating on a project, there are many people working together.
+- your computer (local), github (remote)
+- When you want to put you changed files from local to remote, you do:
+    - 1) add the files `git add .`
+    - 2) commit the files, and type in a message describing the change `git commit -m "..."`
+    - 3) push the commit `git push`
+- When you want to get what in remote to local, you do:
+    - `git pull`
+- Learned about what is a sitemap, and how to design a website
+- Left some time to actually code the pages needed via HTML
+
+Class 3 (July 18th):
+- Reviewing the most common HTML tags
+- Introducing the basics of styling with CSS
