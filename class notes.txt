@@ -26,5 +26,16 @@ Class 2 (July 15th):
 - Left some time to actually code the pages needed via HTML
 
 Class 3 (July 18th):
-- Reviewing the most common HTML tags
-- Introducing the basics of styling with CSS
+- HTML Boilerplate
+    - <!DOCTYPE html>: tells the browser what version of HTML to use (HTML5)
+    - <html>: indicates that the file is HTML
+    - <head>: metadata (meta information)
+        - <meta>: defines the character set encoding (UTF-8)
+        - <title>: title of your website
+- <body>: the actual content of your website
+    - there are various text-related tags you can use
+    - headers <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+    - paragraphs <p>
+    - <strong> (bold text), <em> (italic text)
+
+Class 4 (July 22th)
