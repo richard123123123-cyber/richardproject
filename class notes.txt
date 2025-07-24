@@ -38,4 +38,19 @@ Class 3 (July 18th):
     - paragraphs <p>
     - <strong> (bold text), <em> (italic text)
 
-Class 4 (July 22th)
+Class 4 (July 22th):
+    - seperation of HTML and CSS 
+    - HTML defines the content of a webpage
+    - CSS is used style a webpage
+    - CSS (Cascading Style Sheets)
+    - the basic syntax of CSS:
+        - selector {property: value}
+        - type (element) selectors selects an entire element in HTML and styles it
+        - for example, if you want to change all the Heading 1:
+        - h1 {property: value}
+        - class selector selects all items in HTML that is defined to be in that class
+        - for example, you can make your own class called "red-text"
+        - .red-text {property: value}
+        - Then, in the HTML tag, you need to give it an attribute `class = "red-text`
+
+Class 5 (July 24th):
