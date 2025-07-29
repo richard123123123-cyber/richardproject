@@ -54,3 +54,14 @@ Class 4 (July 22th):
         - Then, in the HTML tag, you need to give it an attribute `class = "red-text`
 
 Class 5 (July 24th):
+    - More CSS selectors
+        - type (element) selector
+        - class selector: .
+        - universal selector: *
+        - id selector: 
+    - Basics of Flexbox
+        - flexbox is used for layout
+        - Frequently used tag for containers <div> </div>
+    - How to use developer tools in a browser to look at HTML and CSS of any website
+
+Class 6 (July 29th):
