@@ -58,10 +58,22 @@ Class 5 (July 24th):
         - type (element) selector
         - class selector: .
         - universal selector: *
-        - id selector: 
+        - id selector: #
     - Basics of Flexbox
         - flexbox is used for layout
         - Frequently used tag for containers <div> </div>
     - How to use developer tools in a browser to look at HTML and CSS of any website
 
 Class 6 (July 29th):
+    - Flexbox concepts: there is a container, and there are elements within the container
+    - On the container, write the CSS rule {display: flex;}
+    - Important properties that you should know:
+        - 'flex-direction': how things line up (left to right, right to left, top to bottom, bottom to top)
+            - row, row-reverse, column, column-reverse
+        - 'justify-content': 
+            - flex-start, flex-end, center, space-between, space-around, space-evenly
+    - Control whitespace using padding and margin
+        - If you don't want default spacing, use {padding: 0}, {margin: 0}
+    - Some other CSS rules you used: border, background-color
+
+Class 7 (July 31th):
