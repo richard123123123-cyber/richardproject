@@ -76,4 +76,6 @@ Class 6 (July 29th):
         - If you don't want default spacing, use {padding: 0}, {margin: 0}
     - Some other CSS rules you used: border, background-color
 
-Class 7 (July 31th):
+Class 7 (July 31th), Class 8 (August 6th): hands-on implementation of main project; home page
+
+Class 9 (August 13th): How to host a website, markdown
